@@ -1503,7 +1503,7 @@ form label {
   height: 90px;
   margin: 0 auto 10px auto;
   position: relative;
-  background: #15a989;
+  background: #1777b7;
   top: -3em;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -1584,10 +1584,10 @@ form label {
 }
 #gtco-features-3 .feature.feature-3 {
   z-index: 7;
-  background: #1784b7;
+  background: #1777b7;
 }
 #gtco-features-3 .feature.feature-3 .icon {
-  background: #1784b7;
+  background: #1777b7;
 }
 
 .gtco-flex {
