@@ -1476,7 +1476,7 @@ form label {
   width: 33.33%;
   float: left;
   padding: 30px;
-  background: #178fb7;
+  background: #1777b7;
   position: relative;
   text-align: center;
 }
@@ -1530,7 +1530,7 @@ form label {
   -webkit-box-shadow: 0px 0 30px 10px rgba(0, 0, 0, 0.25);
   -moz-box-shadow: 0px 0 30px 10px rgba(0, 0, 0, 0.25);
   box-shadow: 0px 0 30px 10px rgba(0, 0, 0, 0.25);
-  background: #15a585;
+  background: #1777b7;
 }
 @media screen and (max-width: 768px) {
   #gtco-features-3 .feature.feature-2 {
