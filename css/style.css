@@ -1540,7 +1540,7 @@ form label {
   }
 }
 #gtco-features-3 .feature.feature-2 .icon {
-  background: #13977a;
+  background: #1777b7;
 }
 #gtco-features-3 .feature.feature-2 .feature-inner {
   top: -3em;
@@ -1555,7 +1555,7 @@ form label {
   position: absolute;
   top: -50px;
   content: "";
-  background: #15a585;
+  background: #1777b7;
   height: 50px;
   width: 100%;
   left: 0;
@@ -1569,7 +1569,7 @@ form label {
   position: absolute;
   bottom: -30px;
   content: "";
-  background: #15a585;
+  background: #1777b7;
   height: 30px;
   width: 100%;
   left: 0;
@@ -1584,10 +1584,10 @@ form label {
 }
 #gtco-features-3 .feature.feature-3 {
   z-index: 7;
-  background: #129377;
+  background: #1784b7;
 }
 #gtco-features-3 .feature.feature-3 .icon {
-  background: #118a6f;
+  background: #1784b7;
 }
 
 .gtco-flex {
