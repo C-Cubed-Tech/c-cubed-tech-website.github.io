@@ -47,13 +47,13 @@ body {
 }
 
 a {
-  color: #17B794;
+  color: #178fb7;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #17B794;
+  color: #178fb7;
   outline: none;
   text-decoration: none;
 }
@@ -71,17 +71,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #17B794;
+  background: #178fb7;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #17B794;
+  background: #178fb7;
 }
 
 ::selection {
   color: #fff;
-  background: #17B794;
+  background: #178fb7;
 }
 
 .gtco-container {
@@ -114,7 +114,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-weight: bold;
 }
 .gtco-nav #gtco-logo em {
-  color: #17B794;
+  color: #178fb7;
 }
 .gtco-nav a {
   padding: 5px 10px;
@@ -209,7 +209,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff;
 }
 .gtco-nav ul li.btn-cta a {
-  color: #17B794;
+  color: #178fb7;
 }
 .gtco-nav ul li.btn-cta a span {
   background: #fff;
@@ -334,7 +334,7 @@ h1, h2, h3, h4, h5, h6, figure {
   width: 100%;
 }
 .gtco-cover a {
-  color: #17B794;
+  color: #178fb7;
 }
 .gtco-cover a:hover {
   color: white;
@@ -463,7 +463,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #17B794;
+  color: #178fb7;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -569,7 +569,7 @@ form label {
 #gtco-counter .counter {
   font-size: 50px;
   margin-bottom: 10px;
-  color: #17B794;
+  color: #178fb7;
   font-weight: 100;
   display: block;
 }
@@ -672,7 +672,7 @@ form label {
   height: 90px;
   font-size: 40px;
   line-height: 40px;
-  color: #17B794;
+  color: #178fb7;
 }
 .feature-center p, .feature-center h3 {
   margin-bottom: 30px;
@@ -698,7 +698,7 @@ form label {
   display: table-cell;
   vertical-align: middle;
   font-size: 40px;
-  color: #17B794;
+  color: #178fb7;
 }
 .feature-left .feature-copy {
   float: right;
@@ -734,7 +734,7 @@ form label {
   margin-left: -25px;
   height: 2px;
   left: 50%;
-  background: #17B794;
+  background: #178fb7;
 }
 .gtco-heading p {
   font-size: 20px;
@@ -837,7 +837,7 @@ form label {
 }
 .gtco-tabs .gtco-tab-nav li.active a {
   background: #fff;
-  color: #17B794;
+  color: #178fb7;
 }
 .gtco-tabs .gtco-tab-content-wrap {
   clear: both;
@@ -872,7 +872,7 @@ form label {
   }
 }
 .gtco-tabs .icon-xlg i {
-  color: #17B794;
+  color: #178fb7;
 }
 
 #gtco-subscribe {
@@ -909,7 +909,7 @@ form label {
 #gtco-subscribe .btn {
   height: 54px;
   border: none !important;
-  background: #17B794;
+  background: #178fb7;
   color: #fff;
   font-size: 16px;
   text-transform: uppercase;
@@ -1249,9 +1249,9 @@ form label {
 }
 
 .btn-primary {
-  background: #17B794;
+  background: #178fb7;
   color: #fff;
-  border: 2px solid #17B794 !important;
+  border: 2px solid #178fb7 !important;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #1acea6 !important;
@@ -1259,11 +1259,11 @@ form label {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #17B794;
-  border: 2px solid #17B794;
+  color: #178fb7;
+  border: 2px solid #178fb7;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #17B794;
+  background: #178fb7;
   color: #fff;
 }
 
@@ -1413,7 +1413,7 @@ form label {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #17B794;
+  border-color: #178fb7;
 }
 
 .row-pb-md {
@@ -1457,7 +1457,7 @@ form label {
   margin-left: 0px;
 }
 .gtco-nav .gtco-contact ul li a i {
-  color: #17B794;
+  color: #178fb7;
 }
 .gtco-nav .gtco-contact ul li a:hover i {
   color: #fff;
@@ -1476,7 +1476,7 @@ form label {
   width: 33.33%;
   float: left;
   padding: 30px;
-  background: #17B794;
+  background: #178fb7;
   position: relative;
   text-align: center;
 }
@@ -1873,7 +1873,7 @@ form label {
 .owl-theme .owl-dots .owl-dot span {
   width: 10px;
   height: 10px;
-  background: #17B794;
+  background: #178fb7;
   -webkit-transition: 0.2s;
   -o-transition: 0.2s;
   transition: 0.2s;
@@ -1881,12 +1881,12 @@ form label {
 }
 .owl-theme .owl-dots .owl-dot span:hover {
   background: none;
-  border: 2px solid #17B794;
+  border: 2px solid #178fb7;
 }
 
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
   background: none;
-  border: 2px solid #17B794;
+  border: 2px solid #178fb7;
 }
 
 /*# sourceMappingURL=style.css.map */
